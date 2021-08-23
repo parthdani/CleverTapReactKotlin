@@ -1,0 +1,371 @@
+{
+  "project_info": {
+    "project_number": "154889865123",
+    "firebase_url": "https://clevertapreactnativetutorial2.firebaseio.com",
+    "project_id": "clevertapreactnativetutorial2",
+    "storage_bucket": "clevertapreactnativetutorial2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154889865123:android:983c10f45ef7510ea4bc16",
+        "android_client_info": {
+          "package_name": "com.cleveertaprudderstack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154889865123-h3qu685en9d5ljif44juiu6jc516iu66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCad8959UBqjwr00A--t9G4Qc4UZDIiGo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154889865123-h3qu685en9d5ljif44juiu6jc516iu66.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154889865123-cr6l56j57jbihohptkhkp1vojffods2f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.ReactSegmentDemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154889865123:android:d2a58a49bc508908a4bc16",
+        "android_client_info": {
+          "package_name": "com.clevertapreactnativepushnotificationtutorial1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154889865123-h3qu685en9d5ljif44juiu6jc516iu66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCad8959UBqjwr00A--t9G4Qc4UZDIiGo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154889865123-h3qu685en9d5ljif44juiu6jc516iu66.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154889865123-cr6l56j57jbihohptkhkp1vojffods2f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.ReactSegmentDemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154889865123:android:0143e7c8e1f76984a4bc16",
+        "android_client_info": {
+          "package_name": "com.ctreactkotlintutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154889865123-h3qu685en9d5ljif44juiu6jc516iu66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCad8959UBqjwr00A--t9G4Qc4UZDIiGo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154889865123-h3qu685en9d5ljif44juiu6jc516iu66.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154889865123-cr6l56j57jbihohptkhkp1vojffods2f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.ReactSegmentDemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154889865123:android:9c96fd01518c9862a4bc16",
+        "android_client_info": {
+          "package_name": "com.deeplinkreactexampleios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154889865123-h3qu685en9d5ljif44juiu6jc516iu66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCad8959UBqjwr00A--t9G4Qc4UZDIiGo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154889865123-h3qu685en9d5ljif44juiu6jc516iu66.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154889865123-cr6l56j57jbihohptkhkp1vojffods2f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.ReactSegmentDemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154889865123:android:f72e0e60b69fe8f0a4bc16",
+        "android_client_info": {
+          "package_name": "com.example.clevertapcordovaandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154889865123-h3qu685en9d5ljif44juiu6jc516iu66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCad8959UBqjwr00A--t9G4Qc4UZDIiGo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154889865123-h3qu685en9d5ljif44juiu6jc516iu66.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154889865123-cr6l56j57jbihohptkhkp1vojffods2f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.ReactSegmentDemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154889865123:android:fae29d7d90fdd5c8a4bc16",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154889865123-h3qu685en9d5ljif44juiu6jc516iu66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCad8959UBqjwr00A--t9G4Qc4UZDIiGo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154889865123-h3qu685en9d5ljif44juiu6jc516iu66.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154889865123-cr6l56j57jbihohptkhkp1vojffods2f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.ReactSegmentDemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154889865123:android:680d43c1a60925aba4bc16",
+        "android_client_info": {
+          "package_name": "com.example.myApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154889865123-h3qu685en9d5ljif44juiu6jc516iu66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCad8959UBqjwr00A--t9G4Qc4UZDIiGo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154889865123-h3qu685en9d5ljif44juiu6jc516iu66.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154889865123-cr6l56j57jbihohptkhkp1vojffods2f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.ReactSegmentDemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154889865123:android:1f4bf30d1c355e6ba4bc16",
+        "android_client_info": {
+          "package_name": "com.parth.clevertapuninstall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154889865123-h3qu685en9d5ljif44juiu6jc516iu66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCad8959UBqjwr00A--t9G4Qc4UZDIiGo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154889865123-h3qu685en9d5ljif44juiu6jc516iu66.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154889865123-cr6l56j57jbihohptkhkp1vojffods2f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.ReactSegmentDemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154889865123:android:411cd40ea93b5fc0a4bc16",
+        "android_client_info": {
+          "package_name": "com.parth.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154889865123-h3qu685en9d5ljif44juiu6jc516iu66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCad8959UBqjwr00A--t9G4Qc4UZDIiGo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154889865123-h3qu685en9d5ljif44juiu6jc516iu66.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154889865123-cr6l56j57jbihohptkhkp1vojffods2f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.ReactSegmentDemo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154889865123:android:0b03fea2e910b65fa4bc16",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154889865123-h3qu685en9d5ljif44juiu6jc516iu66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCad8959UBqjwr00A--t9G4Qc4UZDIiGo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154889865123-h3qu685en9d5ljif44juiu6jc516iu66.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154889865123-cr6l56j57jbihohptkhkp1vojffods2f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.ReactSegmentDemo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
